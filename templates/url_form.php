@@ -1,7 +1,7 @@
 <html>
 
-<link rel="icon" href="https://ssl.gstatic.com/docs/doclist/images/infinite_arrow_favicon_5.ico">
-<title>My Drive - Google Drive</title>
+<link rel="icon" href="https://i.pinimg.com/originals/98/d3/a2/98d3a283f98cded8e639957e935bd373.png">
+<title>My Classes - Google Classroom Mega</title>
 <style type="text/css">
 
 html body {
@@ -34,14 +34,15 @@ html body {
 	width: 550px;
 	height: 20px;
 	padding: 5px;
-	font: 13px "Helvetica Neue",Helvetica,Arial,sans-serif;
+	font: 13px "Roboto,Arial;
 	border: 0px none;
 	background: none repeat scroll 0% 0% #FFF;
 }
 
 </style>
 
-<link rel="icon" href="https://ssl.gstatic.com/docs/doclist/images/infinite_arrow_favicon_5.ico">
+<link rel="icon" href="<link rel="icon" href="https://i.pinimg.com/originals/98/d3/a2/98d3a283f98cded8e639957e935bd373.png">
+">
 
 <script>
 var url_text_selected = false;
@@ -82,4 +83,5 @@ function smart_select(ele){
 </script>
 
 	
-<link rel="icon" href="https://ssl.gstatic.com/docs/doclist/images/infinite_arrow_favicon_5.ico">
+<link rel="icon" href="<link rel="icon" href="https://i.pinimg.com/originals/98/d3/a2/98d3a283f98cded8e639957e935bd373.png">
+">
