@@ -42,12 +42,12 @@ $config['curl'] = array(
 	// CURLOPT_CONNECTTIMEOUT => 5
 );
 
-$config['replace_title'] = 'My Drive - Google Drive';
+$config['replace_title'] = 'My Classes - Google Classroom Mega';
 
 //$config['error_redirect'] = "https://unblockvideos.com/#error={error_msg}";
 //$config['index_redirect'] = 'https://unblockvideos.com/';
 
-$config['replace_icon'] = 'https://ssl.gstatic.com/docs/doclist/images/infinite_arrow_favicon_5.ico';
+$config['replace_icon'] = 'https://i.pinimg.com/originals/98/d3/a2/98d3a283f98cded8e639957e935bd373.png';
 
 // this better be here other Config::load fails
 return $config;
