@@ -22,7 +22,7 @@ This site has links to many games on a CDN for quick and efficient access.
 
 #### Chatboxes
 
-Chatboxes for TitaniumNetwork's Services. Replace if needed.
+Chatboxes for TitaniumNetwork's Services.
 
 #### Suggest Some Stuff!
  
