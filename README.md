@@ -1,4 +1,4 @@
-# TitaniumPhoenix V2
+# Google Classroom Mega
 
 A Modified Titanium Network to be a fake copy of Google Classroom and go under the radar from your teachers.
 
